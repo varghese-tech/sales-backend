@@ -19,6 +19,8 @@ Create a project folder and cd into project folder
 
 Clone the repository
 
+Add env file with Django secret key : SECRET_KEY=secret_value
+
 Create virtualenv
 ```bash
 virtualenv "envname"

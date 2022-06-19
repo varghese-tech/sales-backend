@@ -3,3 +3,9 @@ myenv
 
 #db file
 db.sqlite3
+
+#env file
+.env
+
+# Byte-compiled
+*.pyc
