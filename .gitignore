@@ -1,0 +1,5 @@
+#virtualenv
+myenv
+
+#db file
+db.sqlite3
